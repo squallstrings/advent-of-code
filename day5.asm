@@ -55,7 +55,6 @@ CopyFilename ENDP
 
 ; ============================================================
 ; Part 1: counts how many AVAILABLE IDs are fresh
-;      long long SolveDay5Part1(const char* filename)
 ; ============================================================
 SolveDay5Part1 PROC
 
@@ -410,4 +409,5 @@ P2_openFail:
 SolveDay5Part2 ENDP
 
 END
+
 
